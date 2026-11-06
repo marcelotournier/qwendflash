@@ -1,0 +1,17 @@
+# weights / large artifacts
+weights/
+*.gguf
+*.safetensors
+
+# logs
+logs/
+*.log
+
+# python
+venv/
+.venv/
+__pycache__/
+
+# misc
+.DS_Store
+.playwright-mcp/
